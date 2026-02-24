@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EduVid Creator",
+  "description": "AI-powered educational video creation pipeline for digital literacy.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
